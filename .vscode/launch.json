@@ -8,7 +8,7 @@
             "name": "g++.exe - Build and debug active file",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+            "program": "D:\\c++ file\\cpp_basics\\output\\${fileBasenameNoExtension}.exe", // D:\c++ file\cpp_basics\.gitignore
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",

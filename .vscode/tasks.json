@@ -8,7 +8,7 @@
                 "-g",
                 "${file}",
                 "-o",
-                "${fileDirname}\\output\\${fileBasenameNoExtension}.exe"
+                "D:\\c++ file\\cpp_basics\\output\\${fileBasenameNoExtension}.exe" //D:\c++ file\cpp_basics\output
             ],
             "options": {
                 "cwd": "${workspaceFolder}"
