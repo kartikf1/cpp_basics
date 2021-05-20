@@ -1,0 +1,6 @@
+/*
+This program will take input from user
+and add that input to a single array
+and print each with their array number
+and in last it will print the size of that array.
+*/
