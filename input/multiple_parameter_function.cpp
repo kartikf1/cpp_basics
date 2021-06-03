@@ -1,3 +1,4 @@
+// I have to debug this code.
 #include <iostream>
 #include <string>
 using namespace std;
@@ -12,8 +13,10 @@ void fun1(string word = str1)
     {
         letter = word[a];
         posnum = a;
+        cout << letter;
+        cout << posnum;
         //fun();
-        cout << "The position of \t"<< letter << "is \t"<< posnum << "\n";
+       // cout << "The position of \t"<< letter << "is \t"<< posnum << "\n";
     };
 }
 
