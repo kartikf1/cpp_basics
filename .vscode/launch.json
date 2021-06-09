@@ -10,7 +10,7 @@
             "request": "launch",
             // "program": "D:\\c++ file\\cpp_basics\\output\\${fileBasenameNoExtension}.exe", // D:\c++ file\cpp_basics\.gitignore
             // This is for output > oop_concept folder.
-            "program": "D:\\c++ file\\cpp_basics\\output\\${fileBasenameNoExtension}.exe", // D:\c++ file\cpp_basics\.gitignore
+            "program": "D:\\c++ file\\cpp_basics\\output\\oop_output\\${fileBasenameNoExtension}.exe", // D:\c++ file\cpp_basics\.gitignore
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
